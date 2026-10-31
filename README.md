@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB724: Govern your estate with AI and Azure Resource Manager MCP
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Roll up your sleeves for a 75-minute interactive lab. Use your own AI agents and Azure Resource Manager MCP Server to explore real-time inventory, policy compliance, cost insights, and user-controlled deployments. Onboard, monitor, govern, and secure Azure VMs and on-premises servers through Azure Arc. You’ll also enable Extended Security Updates for Windows Server 2016 while building a practical modernization plan for your hybrid estate.
 
 ### 🚀 Getting started
 
