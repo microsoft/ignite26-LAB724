@@ -43,19 +43,10 @@ Roll up your sleeves for a 75-minute interactive lab. Use your own AI agents and
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
+1. Open the Skillable lab environment.
+2. Open [`instructions/`](instructions/README.md) when this session includes
    attendee step-by-step guidance
 
-#### On your own
-
-If you're learning at your own pace:
-
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
 
 ### 🎯 Learning outcomes
 
