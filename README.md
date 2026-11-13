@@ -32,7 +32,7 @@ Fill in the sections below yourself, then:
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥LAB724: Govern your estate with AI and Azure Resource Manager MCP
+## 🔥LAB724: Govern your estate with Azure Arc and Azure Resource Manager MCP
 ### Session description
 
 Roll up your sleeves for a 75-minute interactive lab. Use your own AI agents and Azure Resource Manager MCP Server to explore real-time inventory, policy compliance, cost insights, and user-controlled deployments. Onboard, monitor, govern, and secure Azure VMs and on-premises servers through Azure Arc. You’ll also enable Extended Security Updates for Windows Server 2016 while building a practical modernization plan for your hybrid estate.
@@ -61,15 +61,23 @@ If you're learning at your own pace:
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Use GitHub Copilot and Azure Resource Manager MCP Server to explore real-time inventory, policy compliance, and perform user-controlled infrastructure management.
+- Onboard, monitor, govern, and secure Azure VMs and on-premises servers through Azure Arc, using Essential Machine Management and Machine Configuration.
+- Enable Extended Security Updates for Windows Server 2016 and build a practical modernization plan for your hybrid estate.
+- Enable Hotpatch for Windows Server with Azure Arc
+- Prepare for Kubernetes version upgrades with Upgrade Insights
+
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- GitHub Copilot
+- Azure Resource Manager MCP Server
+- Azure Arc
+- Azure Virtual Machines
+- Arc-enabled Kubernetes
+- Essential Machine Management
+- Machine Configuration
+- Windows Server 2016 Extended Security Updates
 
 ### 📚 Continue your learning
 
@@ -108,10 +116,20 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/usepowershell">
+        <img src="https://github.com/usepowershell.png" width="100px;" alt="Steven Murawski"/><br />
+        <sub><b>Steven Murawski</b></sub></a><br />
+            <a href="https://github.com/usepowershell" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="https://github.com/StevenBucher98">
+        <img src="https://github.com/StevenBucher98.png" width="100px;" alt="Steven Bucher"/><br />
+        <sub><b>Steven Bucher</b></sub></a><br />
+            <a href="https://github.com/StevenBucher98" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="https://github.com/MasonTorres">
+        <img src="https://github.com/MasonTorres.png" width="100px;" alt="Mason Torres"/><br />
+        <sub><b>Mason Torres</b></sub></a><br />
+            <a href="https://github.com/MasonTorres" title="talk">📢</a>
     </td>
 </tr></table>
 
