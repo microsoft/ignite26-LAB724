@@ -1,4 +1,4 @@
-{{LAB_TITLE}}
+# LAB724: Govern your estate with Azure Arc and Azure Resource Manager MCP
 
 Welcome to LAB724: Hands-On: Govern your estate with AI and Azure Resource Manager MCP. 
 
